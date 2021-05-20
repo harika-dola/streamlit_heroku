@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run tempfore.py
+web: sh setup.sh && streamlit run appy.py
