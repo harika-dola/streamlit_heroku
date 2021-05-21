@@ -8,8 +8,8 @@ from datetime import datetime,timedelta
 st.title("TEMPERATURE FORECASTING")
 st.sidebar.title("Temperature Forecasting")
 
-st.markdown("Streamlit dashboard to analyse the temperature readings ☔️☀️")
-st.sidebar.markdown("Streamlit dashboard to analyse the temperature readings ☔️☀️")
+st.markdown("Streamlit App to analyse the temperature readings ☔️☀️")
+st.sidebar.markdown("Streamlit App to analyse the temperature readings ☔️☀️")
 
 DATA_URL = ("IOT-temp.csv")
 
